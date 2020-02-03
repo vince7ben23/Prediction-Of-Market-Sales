@@ -42,10 +42,11 @@ Predicted: the sales predicted by my algorithm.
 
 Actual: actual values of sales.
 
-## The stages of project
+## The Stages
 
-There are two seperated scripts, to deal with 'data preprocessing' and 'model evaluating' respectivly 
+There are two seperated scripts, to deal with data preprocessing and model evaluating respectivly.
 
-data preprocessing include data exploration and 
+data preprocessing: do data exploration first, then deal with missing value and ''not make sense'' value, and I try to find new feature via feature engineering, prepare the clean data for prediction model to use.
+
+model evaluating: in this project, predict product sales with two machine learning algorithms, multi-variable regression and decision-tree, and use cross-validation to evaluate the performance of each model. 
  
-
