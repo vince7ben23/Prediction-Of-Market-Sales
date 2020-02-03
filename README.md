@@ -1,6 +1,4 @@
 # Prediction-of-Market-Sales
-![title](bigmart.png)
-
 
 ## Problem Statement
 
@@ -39,7 +37,6 @@ Your model performance will be evaluated on the basis of your prediction of the 
 We at our end, have the actual sales for the test dataset, against which your predictions will be evaluated. We will use the Root Mean Square Error value to judge your response.
 
 ![title](rmsee.png)
-
 
 Where,
 N: total number of observations
