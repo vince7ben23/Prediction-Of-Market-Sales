@@ -42,7 +42,7 @@ Predicted: the sales predicted by my algorithm.
 
 Actual: actual values of sales.
 
-## The Stages
+## Code Overview
 
 There are two seperated scripts, to deal with data preprocessing and model evaluating respectivly.
 
