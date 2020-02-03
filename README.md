@@ -27,7 +27,7 @@ We have train (8523) and test (5681) data set, train data set has both input and
 | Item_Outlet_Sales| Sales of the product in the particulat store. This is the outcome variable to be predicted.|
 
 
-## Evaluation Metric:
+## Evaluation Metric
 
 This model performance will be evaluated on the basis of the prediction of the sales for the test data, which contains similar data-points as train except for the sales to be predicted.
 
