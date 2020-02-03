@@ -39,9 +39,11 @@ We at our end, have the actual sales for the test dataset, against which your pr
 ![title](rmsee.png)
 
 Where,
-N: total number of observations
-Predicted: the response entered by user
-Actual: actual values of sales
+N: total number of observations.
+
+Predicted: the response entered by user.
+
+Actual: actual values of sales.
 
 Also, note that the test data is further divided into Public (25%) and Private (75%) data. Your initial responses will be checked and scored on the Public data. But, the final rankings will be based on score on Private data set. Since this is a practice problem, we will keep declare winners after specific time intervals and refresh the competition.
 
