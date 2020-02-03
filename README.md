@@ -46,7 +46,7 @@ Actual: actual values of sales.
 
 There are two seperated scripts, to deal with data preprocessing and model evaluating respectivly.
 
-data preprocessing: do data exploration first, then deal with missing value and ''not make sense'' value, and I try to find new feature via feature engineering, prepare the clean data for prediction model to use.
+Data preprocessing: do data exploration first, then deal with missing value and ''not make sense'' value, and I try to find new feature via feature engineering, prepare the clean data for prediction model to use.
 
-model evaluating: in this project, predict product sales with two machine learning algorithms, multi-variable regression and decision-tree, and use cross-validation to evaluate the performance of each model. 
+Model evaluating: in this project, predict product sales with two machine learning algorithms, multi-variable regression and decision-tree, and use cross-validation to evaluate the performance of each model. 
  
