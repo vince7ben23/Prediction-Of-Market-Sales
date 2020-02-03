@@ -2,14 +2,11 @@
 
 ## Problem Statement
 
-The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim is to build a predictive model and find out the sales of each product at a particular store.
+have collected sales data for 1559 products across 10 stores in different cities of 2013 year. The aim is to build a predictive model and find out the sales of each product at a particular store.
 
-Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
+With this model, I will try to find out the properties of products and stores which play a key role in increasing sales.
 
  
-
-Please note that the data may have missing values as some stores might not report all the data due to technical glitches. Hence, it will be required to treat them accordingly.
-
 ## Data
 We have train (8523) and test (5681) data set, train data set has both input and output variable(s). You need to predict the sales for test data set.
 
@@ -32,21 +29,23 @@ We have train (8523) and test (5681) data set, train data set has both input and
 
 ## Evaluation Metric:
 
-Your model performance will be evaluated on the basis of your prediction of the sales for the test data (test.csv), which contains similar data-points as train except for the sales to be predicted. Your submission needs to be in the format as shown in "SampleSubmission.csv".
+This model performance will be evaluated on the basis of the prediction of the sales for the test data, which contains similar data-points as train except for the sales to be predicted.
 
-We at our end, have the actual sales for the test dataset, against which your predictions will be evaluated. We will use the Root Mean Square Error value to judge your response.
+This is a practical problem provided by Analytics Vidhya, they have the actual sales for the test dataset, against which my predictions will be evaluated. using the Root Mean Square Error value as the judgment standard.
 
 ![title](rmse_1.png)
 
-Where,
-N: total number of observations.
 
-Predicted: the response entered by user.
+N: total number of examples.
+
+Predicted: the sales predicted by my algorithm.
 
 Actual: actual values of sales.
 
-Also, note that the test data is further divided into Public (25%) and Private (75%) data. Your initial responses will be checked and scored on the Public data. But, the final rankings will be based on score on Private data set. Since this is a practice problem, we will keep declare winners after specific time intervals and refresh the competition.
+## The stages of project
 
+There are two seperated scripts, to deal with 'data preprocessing' and 'model evaluating' respectivly 
 
+data preprocessing include data exploration and 
  
 
