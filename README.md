@@ -31,7 +31,7 @@ We have train (8523) and test (5681) data set, train data set has both input and
 
 This model performance will be evaluated on the basis of the prediction of the sales for the test data, which contains similar data-points as train except for the sales to be predicted.
 
-This is a practical problem provided by Analytics Vidhya, they have the actual sales for the test dataset, against which my predictions will be evaluated. using the Root Mean Square Error value as the judgment standard.
+This is a practical problem provided by <b>Analytics Vidhya</b>, they have the actual sales for the test dataset, against which my predictions will be evaluated. using the Root Mean Square Error value as the judgment standard.
 
 ![title](rmse_1.png)
 
