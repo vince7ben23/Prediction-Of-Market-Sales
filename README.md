@@ -56,7 +56,11 @@ Actual: actual values of sales.
 
 There are two seperated scripts, to deal with data preprocessing and model evaluation respectivly.
 
-Data preprocessing  [data_preprocess.ipynb](data_preprocess.ipynb): do data exploration first, then deal with missing value and ''not make sense'' value, and find new feature via feature engineering, prepare the clean data for prediction.
+Data preprocessing  [data_preprocess.ipynb](data_preprocess.ipynb): 
 
-Model evaluation  [model_evaluating.ipynb](model_evaluating.ipynb): in this project, predict product sales with two machine learning algorithms, multi-variable regression and decision-tree, and use cross-validation and learn curve to evaluate the performance of each model. 
+do data exploration first, then deal with missing value and ''not make sense'' value, and find new feature via feature engineering, prepare the clean data for prediction.
+
+Model evaluation  [model_evaluating.ipynb](model_evaluating.ipynb): 
+
+in this project, predict product sales with two machine learning algorithms, multi-variable regression and decision-tree, and use cross-validation and learn curve to evaluate the performance of each model. 
  
