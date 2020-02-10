@@ -12,13 +12,13 @@ Train (8523) and test (5681) data set, train data set has both input and output 
 
 Find the data-set from thses files, 
 
-train data: [train.xlsx](Prediction-of-Market-Sales/train.xlsx)
+train data: [train.xlsx](train.xlsx)
 
-test data: [test.xlsx](Prediction-of-Market-Sales/test.xlsx)
+test data: [test.xlsx](test.xlsx)
 
-train data after data-clean: [train_optimized.xlsx](Prediction-of-Market-Sales/train_optimized.xlsx)
+train data after data-clean: [train_optimized.xlsx](train_optimized.xlsx)
 
-test data after data-clean: [test_optimized.xlsx](Prediction-of-Market-Sales/test_optimized.xlsx)
+test data after data-clean: [test_optimized.xlsx](test_optimized.xlsx)
 
 
 | Variable| Description|
