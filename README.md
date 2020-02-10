@@ -2,9 +2,9 @@
 
 ## Problem Statement
 
-have collected sales data for 1559 products across 10 stores in different cities of 2013 year. The aim is to build a predictive model and find out the sales of each product at a particular store.
+Have collected sales data for 1559 products across 10 stores in different cities of 2013 year. The aim is to build a predictive model and find out the sales of each product at a particular store.
 
-With this model, I will try to find out the properties of products and stores which play a key role in increasing sales.
+With this model, find out the properties of products and stores which play a key role in increasing sales.
 
  
 ## Data
@@ -54,9 +54,9 @@ Actual: actual values of sales.
 
 ## Code Overview
 
-There are two seperated scripts, to deal with data preprocessing and model evaluating respectivly.
+There are two seperated scripts, to deal with data preprocessing and model evaluation respectivly.
 
 Data preprocessing: do data exploration first, then deal with missing value and ''not make sense'' value, and find new feature via feature engineering, prepare the clean data for prediction.
 
-Model evaluating: in this project, predict product sales with two machine learning algorithms, multi-variable regression and decision-tree, and use cross-validation and learn curve to evaluate the performance of each model. 
+Model evaluation: in this project, predict product sales with two machine learning algorithms, multi-variable regression and decision-tree, and use cross-validation and learn curve to evaluate the performance of each model. 
  
