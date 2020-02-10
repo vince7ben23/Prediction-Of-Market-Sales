@@ -10,11 +10,16 @@ With this model, I will try to find out the properties of products and stores wh
 ## Data
 We have train (8523) and test (5681) data set, train data set has both input and output variable(s). You need to predict the sales for test data set.
 
-you can find data-set from thses files,  
+you can find data-set from thses files, 
+
 train data: train.xlsx
+
 test data: test.xlsx
+
 train data after data-clean: train_optimized.xlsx
+
 test data after data-clean: test_optimized.xlsx
+
 
 | Variable| Description|
 |----------------------|-------------------------------|
