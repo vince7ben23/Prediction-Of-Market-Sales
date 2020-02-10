@@ -8,7 +8,6 @@ With this model, I will try to find out the properties of products and stores wh
 
  
 ## Data
-Train (8523) and test (5681) data set, train data set has both input and output variable(s).
 
 Find the data-set from thses files, 
 
@@ -20,6 +19,7 @@ train data after data-clean: [train_optimized.xlsx](train_optimized.xlsx)
 
 test data after data-clean: [test_optimized.xlsx](test_optimized.xlsx)
 
+Train (8523) and test (5681) data set, train data set has both input and output variable(s).
 
 | Variable| Description|
 |----------------------|-------------------------------|
@@ -56,7 +56,7 @@ Actual: actual values of sales.
 
 There are two seperated scripts, to deal with data preprocessing and model evaluating respectivly.
 
-Data preprocessing: do data exploration first, then deal with missing value and ''not make sense'' value, and I try to find new feature via feature engineering, prepare the clean data for prediction.
+Data preprocessing: do data exploration first, then deal with missing value and ''not make sense'' value, and find new feature via feature engineering, prepare the clean data for prediction.
 
 Model evaluating: in this project, predict product sales with two machine learning algorithms, multi-variable regression and decision-tree, and use cross-validation and learn curve to evaluate the performance of each model. 
  
